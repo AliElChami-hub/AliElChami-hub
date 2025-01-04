@@ -1,4 +1,4 @@
-![MasterHead]([https://camo.githubusercontent.com/29c5f3bbc807237b8c00246114019a82e67b489fe47c66a44f6b3cc83804f386/68747470733a2f2f692e696d6775722e636f6d2f317055344730722e706e67](https://th.bing.com/th/id/OIP.xG_ATvT2WvzTRAMU2mP9lQHaDt?rs=1&pid=ImgDetMain))
+!([https://camo.githubusercontent.com/29c5f3bbc807237b8c00246114019a82e67b489fe47c66a44f6b3cc83804f386/68747470733a2f2f692e696d6775722e636f6d2f317055344730722e706e67](https://th.bing.com/th/id/OIP.xG_ATvT2WvzTRAMU2mP9lQHaDt?rs=1&pid=ImgDetMain))
 <h1 align="center">Hi 👋, I'm Ali El Chami</h1>
 <h3 align="center">I am a passionate and dedicated student specializing in data science and artificial intelligence. I enjoy exploring the intricacies of machine learning algorithms and constantly strive to enhance my skills through hands-on projects and continuous learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif">
