@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alialshami75h@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alielchami-hub&show_icons=true&locale=en&layout=compact" alt="alielchami-hub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alielchami-hub&show_icons=true&locale=en" alt="alielchami-hub" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alielchami-hub&" alt="alielchami-hub" /></p>
