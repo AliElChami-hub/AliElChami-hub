@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alielchami-hub&label=Profile%20views&color=0e75b6&style=flat" alt="alielchami-hub" /> </p>
 
-- 🔭 I’m currently working on **machine learning models capable of forecasting patients’ health care utilization and the total cost incurred by each individual.**
 
-- 🌱 I’m currently learning **Data science and Ai**
+
+
 
 - 📫 How to reach me **alialshami75h@gmail.com**
 
